@@ -29,18 +29,11 @@
 ## 양재연
 
 ### 배운점
-- 이미지 삽입
-1. github issue 페이지 이동
-<img width="1634" alt="스크린샷 2023-01-01 오후 6 04 07" src="https://user-images.githubusercontent.com/87291052/210165785-d8a9f88e-f008-4706-a17b-f126e993f7ab.png">
-
-2. New issue 클릭
-<img width="1637" alt="스크린샷 2023-01-01 오후 6 06 02" src="https://user-images.githubusercontent.com/87291052/210165810-a4232ae9-3dd0-461c-96b3-0388a90cd9ad.png">
-
-3. 이미지 파일 업로드
-<img width="1540" alt="스크린샷 2023-01-01 오후 6 06 54" src="https://user-images.githubusercontent.com/87291052/210165823-5afb3343-d2a0-419b-bed0-ba568c5fa493.png">
-
-4. 링크 복붙하기
-* 이미지 파일 업로드 한 뒤 잠시 대기하면 링크 생성됨
+* MVC 패턴 학습
+* MVC 규칙 정리
+### 보완점
+- 최초 계획은 서블릿, JSP, MVC 패턴에 대해 모두 학습하는 것이었다. 하지만, 실제로는 MVC 패턴만 학습하게 되어서 계획 실천을 완벽하게 하지 못했다.    
+다음 스터디 때는 스터디 계획을 좁게 설정해서 구체적이고 깊게 학습해야겠다고 결심했다.
 </br>
 
 ## 김세현
