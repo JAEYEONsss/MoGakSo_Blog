@@ -24,7 +24,6 @@
 # 2023-01-30 Week 4 비대면 공부 기록
 
 <img src="1.png">
-<img src="2.png">
 </br>
 </br>
 
