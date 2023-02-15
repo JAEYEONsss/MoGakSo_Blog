@@ -43,7 +43,7 @@
             <a href="https://github.com/js1022003/TIL">개인 깃허브 TIL</a>
         </td>
         <td align="center">
-            <a href="https://github.com/hayoooon/23-Winter">개인 깃허브 TIL</a>
+            <a href="https://github.com/hayoooon/2023_Winter">개인 깃허브 TIL</a>
         </td>
         <td align="center">
             <a href="https://github.com/NSRBSG/blog ">개인 깃허브 TIL</a>
